@@ -216,7 +216,7 @@ header .navbar ul li a:hover{
     border-radius: 5rem;
     padding: .5rem 2.5rem;
 }
-.education.box-container .box h3{
+.education .box-container .box h3{
     font-size: 2rem;
     color: #fff;
     padding-top: 1.5rem;
