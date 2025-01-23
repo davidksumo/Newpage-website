@@ -239,6 +239,51 @@ header .navbar ul li a:hover{
     color: #fff;
     background: var(----yellow);
 }
+.experience .box-container-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 1rem 0;
+    padding-left: 3rem;
+}
+.experience .box-container-1 .box-1{
+    width:27rem;
+    margin:4rem 1rem;
+    padding-left:4rem;
+    border-left: .2rem solid #fff;
+    position: relative;
+}
+.experience .box-container-1 .box-1 span{
+    font-size: 1.3rem;
+    background: #222;
+    color: #fff;
+    border-radius: 5rem;
+    padding: .5rem 2.5rem;
+    
+}
+.experience .box-container-1 .box-1 h3{
+    font-size: 2rem;
+    color: #fff;
+    padding-top: 1.5rem;
+}
+.experience .box-container-1 .box-1 p{
+    font-size: 1.4rem;
+    color: #eee;
+    padding: 1rem 0;
+}
+ .box-container-1 .box-1 i{
+    position: absolute;
+    top: -1.5rem;  left: -2.5rem;
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+    line-height: 5rem;
+    text-align: center;
+    font-size: 2rem;
+    color: #fff;
+    background: var(----yellow);
+}
 .protfolio .box-container{
     display: flex;
     align-items: center;
