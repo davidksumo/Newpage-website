@@ -214,8 +214,7 @@ header .navbar ul li a:hover{
     background: #222;
     color: #fff;
     border-radius: 5rem;
-    padding: .5rem 2.5rem;
-    
+    padding: .5rem 2.5rem; 
 }
 .education .box-container .box h3{
     font-size: 2rem;
@@ -260,7 +259,6 @@ header .navbar ul li a:hover{
     color: #fff;
     border-radius: 5rem;
     padding: .5rem 2.5rem;
-    
 }
 .experience .box-container-1 .box-1 h3{
     font-size: 2rem;
@@ -446,7 +444,9 @@ header .navbar ul li a:hover{
     .education .box-container .box{
         width: 100%;
     }
-
+    .experience .box-container-1 .box-1{
+        width: 100%;
+    }
     .protfolio .box-container .box{
         width: 100%;
     }
